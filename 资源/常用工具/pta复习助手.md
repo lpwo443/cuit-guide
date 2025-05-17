@@ -24,10 +24,10 @@ https://github.com/Dawson-web/PTA-Review-Plugin/archive/refs/tags/%E6%AD%A3%E5%B
 
 ### 安装步骤
 
-![alt text](26745f4ca6c70780d9d19f9d3b235be5.JPG)
-![alt text](0703f36201bc726d7c9535b512a2850d.JPG)
-![alt text](d1f7c46e2f0d54ecfc079f0b3a0d8975.JPG)
-![alt text](1de505b0a89a89ebd1ac7e3c8f9cb9ea.JPG)
+![alt text](img1.png)
+![alt text](img2.png)
+![alt text](img3.png)
+![alt text](img4.png)
 
 ### 注意事项
 
